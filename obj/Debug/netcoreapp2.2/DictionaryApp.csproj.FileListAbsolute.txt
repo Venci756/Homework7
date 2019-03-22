@@ -1,0 +1,11 @@
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp2.2\DictionaryApp.deps.json
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp2.2\DictionaryApp.runtimeconfig.json
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp2.2\DictionaryApp.runtimeconfig.dev.json
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp2.2\DictionaryApp.dll
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\bin\Debug\netcoreapp2.2\DictionaryApp.pdb
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.csprojAssemblyReference.cache
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.csproj.CoreCompileInputs.cache
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.AssemblyInfoInputs.cache
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.AssemblyInfo.cs
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.dll
+C:\Users\Venci\Desktop\DictionaryApp\DictionaryApp\DictionaryApp\obj\Debug\netcoreapp2.2\DictionaryApp.pdb
